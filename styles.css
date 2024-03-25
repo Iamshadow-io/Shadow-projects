@@ -56,3 +56,30 @@ button {
     border-radius: 3px;
     padding: 3px;
 }
+
+@media (max-width: 425px) {
+header {
+    font-size: 30px;
+    }
+.container h1 {
+        font-size: 43px;
+    }
+    .action input {
+        padding: 5px;
+        width: 250px;
+        font-size: 18px;
+        margin-right:5px; 
+    }
+button {
+        padding: 5px;
+        font-size: 18px
+        }
+.sidebar {
+        font-size: 20px;
+        }
+
+
+
+
+
+}
